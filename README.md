@@ -10,7 +10,7 @@ This code can be forked and cloned onto one's local device through GitHub. Pleas
 ![alt text](pg1.png)
 
 
-[GitHub](https://www.example.com)
+[GitHub](https://github.com/N-Person/profilegenerator)
 [GitHubIO](https://www.example.com)
 The full video file showing functionality of the application is [HERE](https://youtu.be/5F-PSTCQsZQ)
 
