@@ -17,7 +17,7 @@ let teamString = ``;
 
 console.clear();
 console.log("---------------------------------------------");
-console.log("Team Portfolio Generator by Joseph DeWoody")
+console.log("Portfolio Generator by Brian Morgan")
 
 // Main function to run application
 async function main() {
