@@ -11,7 +11,7 @@ This code can be forked and cloned onto one's local device through GitHub. Pleas
 
 
 [GitHub](https://github.com/N-Person/profilegenerator)
-[GitHubIO](https://www.example.com)
+[GitHubIO](https://n-person.github.io/profilegenerator/)
 The full video file showing functionality of the application is [HERE](https://youtu.be/5F-PSTCQsZQ)
 
 MIT License
